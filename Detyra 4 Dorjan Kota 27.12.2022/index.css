@@ -1,0 +1,51 @@
+.Paragrafi1 {
+  border: 3px solid #000000;
+  box-sizing: border-box;
+  position: absolute;
+  width: 513px;
+  height: 98px;
+  margin-top: 25px;
+  margin-left: 40px;
+  background: #26ff56;
+}
+.div1 {
+  border: 10px solid #e31e1e;
+  left: 54px;
+  top: 58px;
+  box-sizing: border-box;
+  position: absolute;
+  width: 739px;
+  height: 240px;
+  background: #ffffff;
+}
+.div2 {
+  border: 40px solid #00ff66;
+  margin-top: 337px;
+  margin-left: 526px;
+  box-sizing: border-box;
+  position: absolute;
+  width: 739px;
+  height: 240px;
+  background: #d9d9d9;
+}
+
+.div3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 739px;
+  height: 240px;
+  margin-left: 54px;
+  margin-top: 713px;
+  background: #d9d9d9;
+  border: 40px solid #4200ff;
+}
+
+.Paragrafi3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 246px;
+  height: 74px;
+  margin-top: 43px;
+  margin-left: 0px;
+  background-color: #ff0000;
+}
